@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashish Pothal</h1>
-<h3 align="center">Software Developer I am currently a UG Student Python, Flutter Currently doing BTech in CSE</h3>
+<h3 align="center">Aspiring software developer and Computer Science Engineering undergraduate with skills in Python and Flutter. Passionate about app development and eager to apply academic knowledge to real-world projects.</h3>
 
 - 🔭 I’m currently working on [Biometric Machine](https://github.com/arthishaxom/biometric-machine)
 
