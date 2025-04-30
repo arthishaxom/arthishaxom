@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [KIIT Time](https://github.com/arthishaxom/kiit_time)
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 📫 How to reach me **ashishpothal@gmail.com**
 
