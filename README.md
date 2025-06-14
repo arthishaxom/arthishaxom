@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashish Pothal</h1>
-<h3 align="center">Aspiring software developer and Computer Science Engineering undergraduate with skills in Python and Flutter. Passionate about app development and eager to apply academic knowledge to real-world projects.</h3>
+<h3 align="center">Aspiring software developer and Computer Science Engineering undergraduate with skills in React Native and Javascript. Passionate about app development and eager to apply academic knowledge to real-world projects.</h3>
 
-- 🔭 I’m currently working on [KIIT Time](https://github.com/arthishaxom/kiit_time)
+- 🔭 I’m currently working on **cvDekh**
 
 - 🌱 I’m currently learning **React Native**
 
