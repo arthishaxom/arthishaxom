@@ -1,18 +1,46 @@
-<h1 align="center">Hi 👋, I'm Ashish Pothal</h1>
-<h3 align="center">Aspiring software developer and Computer Science Engineering undergraduate with skills in React Native and Javascript. Passionate about app development and eager to apply academic knowledge to real-world projects.</h3>
+<h1 align="center">Hi, I'm Ashish Pothal 👋</h1>
 
-- 🔭 I’m currently working on **cvDekh**
-
-- 🌱 I’m currently learning **React Native**
-
-- 📫 How to reach me **ashishpothal@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ashish-pothal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashish-pothal" height="30" width="40" /></a>
+<p align="center">
+  A passionate developer and tech enthusiast exploring the world of software, AI, and scalable systems.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arthishaxom&show_icons=true&locale=en" alt="arthishaxom" /></p>
+### 👨‍💻 About Me
+
+- 🎓 CSE Undergrad | KIIT University  
+- 💻 I love building full-stack apps, automating tasks, and learning scalable backend systems.  
+- ⚙️ Working with tools like **TypeScript**, **Express**, **Supabase**, and **PostgreSQL**.  
+- 📈 Currently learning: **Backend** & **System Design**
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** TypeScript, JavaScript, Python, SQL  
+- **Frameworks & Tools:** Node.js, Express, React Native, Tailwind  
+- **Databases:** PostgreSQL, Firebase, Supabase   
+- **Other:** Git, REST APIs
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthishaxom&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthishaxom&layout=compact&hide_border=true" height="150"/>
+</p>
+
+---
+
+### 📫 Let's Connect
+
+- ✉️ [Email](mailto:ashishpothal@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-pothal/)  
+- 🌐 [Portfolio](https://ashishpothal.live) *(if you have one)*
+
+---
+
+<p align="center">
+  Thanks for visiting! ✨  
+</p>
