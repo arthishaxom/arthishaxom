@@ -37,7 +37,7 @@
 
 - ✉️ [Email](mailto:ashishpothal@gmail.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/ashish-pothal/)  
-- 🌐 [Portfolio](https://ashishpothal.live) *(if you have one)*
+- 🌐 [Portfolio](https://ashishpothal.live)
 
 ---
 
